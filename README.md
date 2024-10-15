@@ -54,4 +54,9 @@
     ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
     ![MacOs](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-  
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> **Skills**
+
+<a target="_blank" align="center">
+  <img align="left" width="600" src="https://github.com/0n1j3b1/0n1j3b1/blob/main/OTS_Akane2.png">
+</a>
