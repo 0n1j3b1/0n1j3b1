@@ -13,7 +13,7 @@
 </h2>
 
 <a target="_blank" align="center">
-  <img align="right" width="460" src="https://github.com/0n1j3b1/0n1j3b1/blob/main/OTS_Akane.png">
+  <img align="right" width="450" src="https://github.com/0n1j3b1/0n1j3b1/blob/main/OTS_Akane.png">
 </a>
 
 <ul>
