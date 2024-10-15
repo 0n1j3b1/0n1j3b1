@@ -1,6 +1,7 @@
-<h1 align="center">Hi , I'm 0n1j3b1 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm 0n1j3b1 <img src="https://github.com/0n1j3b1/0n1j3b1/blob/main/Me_Thumb.png" width="40"></h1>
 
-## <picture><img src = "https://github.com/0n1j3b1/0n1j3b1/blob/main/Me_Thumb.png" width = 40px></picture> About me
+
+## <picture><img src = "https://github.com/0n1j3b1/0n1j3b1/blob/main/Me_nya.png" width = 40px></picture> About me
 
 <p align="left">
 
