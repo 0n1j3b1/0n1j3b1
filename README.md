@@ -2,8 +2,6 @@
 
 ## <picture><img src = "https://github.com/0n1j3b1/0n1j3b1/blob/main/Me_Thumb.png" width = 40px></picture> About me
 
-<p align="center">
-
 <p align="left">
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/0n1j3b1.png" alt="Your Image Badge" />
@@ -58,5 +56,5 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> **Skills**
 
 <a target="_blank" align="center">
-  <img align="left" width="600" src="https://github.com/0n1j3b1/0n1j3b1/blob/main/OTS_Akane2.png">
+  <img align="left" width="400" src="https://github.com/0n1j3b1/0n1j3b1/blob/main/OTS_Akane2.png">
 </a>
