@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm 0n1j3b1 <img src="https://github.com/0n1j3b1/0n1j3b1/blob/main/Me_Thumb.png" width="40"></h1>
 
 <h2> 
-  <picture><img src="https://github.com/0n1j3b1/0n1j3b1/blob/main/Me_nya.png" width="40px"></picture> About me 
+  <picture><img src="https://github.com/0n1j3b1/0n1j3b1/blob/main/Me_fine.png" width="40px"></picture> About me 
 </h2>
 
 <p align="left">
@@ -59,9 +59,37 @@
 </ul>
 
 <h2>
-  <img src="https://github.com/0n1j3b1/0n1j3b1/blob/main/Me_fine.png" width="40"> Skills
+  <img src="https://github.com/0n1j3b1/0n1j3b1/blob/main/Me_nya.png" width="40"> Courses & Certifications
 </h2>
 
 <a target="_blank" align="center">
   <img align="left" width="400" src="https://github.com/0n1j3b1/0n1j3b1/blob/main/OTS_Akane2.png">
 </a>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h2>
+  <img src="https://github.com/0n1j3b1/0n1j3b1/blob/main/Me_roblox.png" width="40"> Social
+</h2>
